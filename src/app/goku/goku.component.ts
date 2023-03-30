@@ -15,5 +15,5 @@ export class GokuComponent implements OnInit {
   }
   constructor() {}
 
-  ngOnInit() {}
+  ngOnInit() {} 
 }
